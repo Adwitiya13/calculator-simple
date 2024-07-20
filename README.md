@@ -1,4 +1,4 @@
-# calculator-simple
+calculator-simple
 A simple Python calculator that performs basic arithmetic operations including addition, subtraction, multiplication, and division. This command-line application allows users to input two numbers and select an operation to perform the calculation. It handles errors like division by zero and invalid input. 
 Certainly! Here’s a README for your graphical calculator project that uses `tkinter` with a blue background:
 
@@ -30,7 +30,9 @@ Usage
 
 1. Run the Application:
    Execute the provided Python script to start the calculator.
-
+![p3](https://github.com/user-attachments/assets/944c9fc1-154c-45d9-bfcd-c27b450df318)
+![p2](https://github.com/user-attachments/assets/e204e184-4b35-4626-aac2-782fe56164a7)
+![p1](https://github.com/user-attachments/assets/227fd8ea-0ef9-4797-bfcc-ce62a8984deb)
 2. Enter Numbers and Perform Calculations:
    - Input two numbers in the designated fields.
    - Choose the arithmetic operation (Add, Subtract, Multiply, Divide) by clicking the corresponding button.
